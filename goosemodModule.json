@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+
+  "name": "Switch Error Lookup",
+  "description": "Get info on Switch (CFW) error codes",
+
+  "tags": ["commands"],
+
+  "authors": ["506482395269169153"],
+
+  "version": "1.0.0"
+}
